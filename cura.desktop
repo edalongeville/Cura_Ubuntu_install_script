@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Cura
+Comment=3d printer slicer software
+Type=Application
+Categories=Graphics;3DGraphics;
+Icon=/usr/share/icons/hicolor/64x64/apps/cura.png
+Terminal=false
+TryExec=/usr/bin/cura/Ultimaker_Cura-4.4.1.AppImage
+Exec=/usr/bin/cura/Ultimaker_Cura-4.4.1.AppImage
+
