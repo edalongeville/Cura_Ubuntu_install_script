@@ -1,5 +1,5 @@
 #!/bin/bash
-# This script installs Cura on Ubuntu 18.04
+# This script installs Cura on Ubuntu 20.04
 
 FILE="Ultimaker_Cura-4.6.1.AppImage"
 ICON="cura.png"
